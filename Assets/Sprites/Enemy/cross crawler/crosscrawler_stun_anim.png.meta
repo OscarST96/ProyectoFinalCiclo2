@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 492a933a568dcf74ead7613f09dadf2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6590092315969011184
+    second: crosscrawler_stun_anim_0
+  - first:
+      213: -288561919644536387
+    second: crosscrawler_stun_anim_1
+  - first:
+      213: 4098170677249124059
+    second: crosscrawler_stun_anim_2
+  - first:
+      213: -7266273271759854258
+    second: crosscrawler_stun_anim_3
+  - first:
+      213: 5566796751521992640
+    second: crosscrawler_stun_anim_4
+  - first:
+      213: 3781214853651295848
+    second: crosscrawler_stun_anim_5
+  - first:
+      213: 9000009206049956502
+    second: crosscrawler_stun_anim_6
+  - first:
+      213: -1824480412278663447
+    second: crosscrawler_stun_anim_7
+  - first:
+      213: 3713342424294100893
+    second: crosscrawler_stun_anim_8
+  - first:
+      213: -3255868246520898838
+    second: crosscrawler_stun_anim_9
+  - first:
+      213: -8442151063797014038
+    second: crosscrawler_stun_anim_10
+  - first:
+      213: 4615739934181115161
+    second: crosscrawler_stun_anim_11
+  - first:
+      213: 1444478590069254154
+    second: crosscrawler_stun_anim_12
+  - first:
+      213: 7373953900655232871
+    second: crosscrawler_stun_anim_13
+  - first:
+      213: 290049018922367856
+    second: crosscrawler_stun_anim_14
+  - first:
+      213: -8168008672715191001
+    second: crosscrawler_stun_anim_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 47.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd3d5aab06b47b50800000000000000
+      internalID: 6590092315969011184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1f1e38672defbf0800000000000000
+      internalID: -288561919644536387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 179
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62b569480afd830800000000000000
+      internalID: 4098170677249124059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 119
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a6db25f2092b90800000000000000
+      internalID: -7266273271759854258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 176
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf444fb62c314d40800000000000000
+      internalID: 5566796751521992640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ee05b20e2997430800000000000000
+      internalID: 3781214853651295848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 59
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6926ad550b476ec70800000000000000
+      internalID: 9000009206049956502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 117
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d8764bb42ea6e0800000000000000
+      internalID: -1824480412278663447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 58
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f0071c241788330800000000000000
+      internalID: 3713342424294100893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 117
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aead5a28415d0d2d0800000000000000
+      internalID: -3255868246520898838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 58
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1613ef55477da80800000000000000
+      internalID: -8442151063797014038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154370d3076e0040800000000000000
+      internalID: 4615739934181115161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a082cbedf91db0410800000000000000
+      internalID: 1444478590069254154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76749a6f00c855660800000000000000
+      internalID: 7373953900655232871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b7154cb06760400800000000000000
+      internalID: 290049018922367856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_stun_anim_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d408c536765ae80800000000000000
+      internalID: -8168008672715191001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crosscrawler_stun_anim_0: 6590092315969011184
+      crosscrawler_stun_anim_1: -288561919644536387
+      crosscrawler_stun_anim_10: -8442151063797014038
+      crosscrawler_stun_anim_11: 4615739934181115161
+      crosscrawler_stun_anim_12: 1444478590069254154
+      crosscrawler_stun_anim_13: 7373953900655232871
+      crosscrawler_stun_anim_14: 290049018922367856
+      crosscrawler_stun_anim_15: -8168008672715191001
+      crosscrawler_stun_anim_2: 4098170677249124059
+      crosscrawler_stun_anim_3: -7266273271759854258
+      crosscrawler_stun_anim_4: 5566796751521992640
+      crosscrawler_stun_anim_5: 3781214853651295848
+      crosscrawler_stun_anim_6: 9000009206049956502
+      crosscrawler_stun_anim_7: -1824480412278663447
+      crosscrawler_stun_anim_8: 3713342424294100893
+      crosscrawler_stun_anim_9: -3255868246520898838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

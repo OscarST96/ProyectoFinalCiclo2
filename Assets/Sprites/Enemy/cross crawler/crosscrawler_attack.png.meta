@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 5785c212bfd06564997d4dde041cf0b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6529317843248858259
+    second: crosscrawler_attack_0
+  - first:
+      213: 4883864533003173622
+    second: crosscrawler_attack_1
+  - first:
+      213: 2494099826139191654
+    second: crosscrawler_attack_2
+  - first:
+      213: -2003818502918837587
+    second: crosscrawler_attack_3
+  - first:
+      213: -4609022836941749241
+    second: crosscrawler_attack_4
+  - first:
+      213: 6377756905100894924
+    second: crosscrawler_attack_5
+  - first:
+      213: -4359505590819880979
+    second: crosscrawler_attack_6
+  - first:
+      213: -6562007150652152037
+    second: crosscrawler_attack_7
+  - first:
+      213: -580351950051076574
+    second: crosscrawler_attack_8
+  - first:
+      213: 7890275454477234010
+    second: crosscrawler_attack_9
+  - first:
+      213: -1618599619172584656
+    second: crosscrawler_attack_10
+  - first:
+      213: 4476418344835120529
+    second: crosscrawler_attack_11
+  - first:
+      213: 8451783700441074239
+    second: crosscrawler_attack_12
+  - first:
+      213: 2651623969577636196
+    second: crosscrawler_attack_13
+  - first:
+      213: -8131111568216973788
+    second: crosscrawler_attack_14
+  - first:
+      213: -8043105098445496715
+    second: crosscrawler_attack_15
+  - first:
+      213: 2752562451725119228
+    second: crosscrawler_attack_16
+  - first:
+      213: 2977559052020989390
+    second: crosscrawler_attack_17
+  - first:
+      213: -1877017051393598892
+    second: crosscrawler_attack_18
+  - first:
+      213: 1301037264342576573
+    second: crosscrawler_attack_19
+  - first:
+      213: 4349598509519431439
+    second: crosscrawler_attack_20
+  - first:
+      213: -2194641100476318156
+    second: crosscrawler_attack_21
+  - first:
+      213: -6083209496167642471
+    second: crosscrawler_attack_22
+  - first:
+      213: 4399050441301613444
+    second: crosscrawler_attack_23
+  - first:
+      213: 2084662076050764521
+    second: crosscrawler_attack_24
+  - first:
+      213: -66730028086703021
+    second: crosscrawler_attack_25
+  - first:
+      213: 2986971085002615060
+    second: crosscrawler_attack_26
+  - first:
+      213: -2608772721963146317
+    second: crosscrawler_attack_27
+  - first:
+      213: 4854003319047197529
+    second: crosscrawler_attack_28
+  - first:
+      213: -767705947357007937
+    second: crosscrawler_attack_29
+  - first:
+      213: 6454651733026740327
+    second: crosscrawler_attack_30
+  - first:
+      213: -6878958551235098014
+    second: crosscrawler_attack_31
+  - first:
+      213: -5509993017225454753
+    second: crosscrawler_attack_32
+  - first:
+      213: -6547204910022689430
+    second: crosscrawler_attack_33
+  - first:
+      213: 1460507350332088351
+    second: crosscrawler_attack_34
+  - first:
+      213: -6304158115925362908
+    second: crosscrawler_attack_35
+  - first:
+      213: -944514437223580835
+    second: crosscrawler_attack_36
+  - first:
+      213: -6112257966781566398
+    second: crosscrawler_attack_37
+  - first:
+      213: 1198287558201709351
+    second: crosscrawler_attack_38
+  - first:
+      213: -4205076429908181256
+    second: crosscrawler_attack_39
+  - first:
+      213: -7964041006584811972
+    second: crosscrawler_attack_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 47.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crosscrawler_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394c7701cfbcc9a50800000000000000
+      internalID: 6529317843248858259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe78ccbae8f6c340800000000000000
+      internalID: 4883864533003173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d36bd392dc9220800000000000000
+      internalID: 2494099826139191654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaea2330b10134e0800000000000000
+      internalID: -2003818502918837587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 577
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7048c6246267900c0800000000000000
+      internalID: -4609022836941749241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 570
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc265584d18528850800000000000000
+      internalID: 6377756905100894924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 186
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff9d643ccef73c0800000000000000
+      internalID: -4359505590819880979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 458
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172ec373411fe4a0800000000000000
+      internalID: -6562007150652152037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 421
+        width: 126
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226108ce9fc22f7f0800000000000000
+      internalID: -580351950051076574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 461
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f691ca8b3ef7d60800000000000000
+      internalID: 7890275454477234010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b2a9d8349989e0800000000000000
+      internalID: -1618599619172584656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d70fd74ce6f1e30800000000000000
+      internalID: 4476418344835120529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 417
+        width: 117
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a0a3ffe74ca4570800000000000000
+      internalID: 8451783700441074239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461169093f57cc420800000000000000
+      internalID: 2651623969577636196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 407
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9b53fb1d782f80800000000000000
+      internalID: -8131111568216973788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ed504f686216090800000000000000
+      internalID: -8043105098445496715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe672557f0133620800000000000000
+      internalID: 2752562451725119228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb5799e2a625920800000000000000
+      internalID: 2977559052020989390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 420
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a5556cfee73f5e0800000000000000
+      internalID: -1877017051393598892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 407
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6facaf763e0210800000000000000
+      internalID: 1301037264342576573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 407
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07697b9cc0ec5c30800000000000000
+      internalID: 4349598509519431439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 410
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ef2acfb811b81e0800000000000000
+      internalID: -2194641100476318156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 415
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a05a68139149ba0800000000000000
+      internalID: -6083209496167642471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bdec6b1119c0d30800000000000000
+      internalID: 4399050441301613444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 309
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2fbb7fc153eec10800000000000000
+      internalID: 2084662076050764521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 309
+        width: 181
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c4a0c946de21ff0800000000000000
+      internalID: -66730028086703021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 309
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419a1fb406ad37920800000000000000
+      internalID: 2986971085002615060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 213
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b368aff707cbcbd0800000000000000
+      internalID: -2608772721963146317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 314
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95310621d42ec5340800000000000000
+      internalID: 4854003319047197529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 298
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa4d3228f8855f0800000000000000
+      internalID: -767705947357007937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 495
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7681bef8d87839950800000000000000
+      internalID: 6454651733026740327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a0ff8d4a70980a0800000000000000
+      internalID: -6878958551235098014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd4654b829883b0800000000000000
+      internalID: -5509993017225454753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 69
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d776aa2d7a325a0800000000000000
+      internalID: -6547204910022689430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10246072b3c44410800000000000000
+      internalID: 1460507350332088351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 34
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4277f5c28912388a0800000000000000
+      internalID: -6304158115925362908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b7f04af1964e2f0800000000000000
+      internalID: -944514437223580835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 82
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242fe6a63c5ec2ba0800000000000000
+      internalID: -6112257966781566398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72312657f2c21a010800000000000000
+      internalID: 1198287558201709351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe74f5344194a5c0800000000000000
+      internalID: -4205076429908181256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_attack_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 111
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e2ed956ea0a7190800000000000000
+      internalID: -7964041006584811972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crosscrawler_attack_0: 6529317843248858259
+      crosscrawler_attack_1: 4883864533003173622
+      crosscrawler_attack_10: -1618599619172584656
+      crosscrawler_attack_11: 4476418344835120529
+      crosscrawler_attack_12: 8451783700441074239
+      crosscrawler_attack_13: 2651623969577636196
+      crosscrawler_attack_14: -8131111568216973788
+      crosscrawler_attack_15: -8043105098445496715
+      crosscrawler_attack_16: 2752562451725119228
+      crosscrawler_attack_17: 2977559052020989390
+      crosscrawler_attack_18: -1877017051393598892
+      crosscrawler_attack_19: 1301037264342576573
+      crosscrawler_attack_2: 2494099826139191654
+      crosscrawler_attack_20: 4349598509519431439
+      crosscrawler_attack_21: -2194641100476318156
+      crosscrawler_attack_22: -6083209496167642471
+      crosscrawler_attack_23: 4399050441301613444
+      crosscrawler_attack_24: 2084662076050764521
+      crosscrawler_attack_25: -66730028086703021
+      crosscrawler_attack_26: 2986971085002615060
+      crosscrawler_attack_27: -2608772721963146317
+      crosscrawler_attack_28: 4854003319047197529
+      crosscrawler_attack_29: -767705947357007937
+      crosscrawler_attack_3: -2003818502918837587
+      crosscrawler_attack_30: 6454651733026740327
+      crosscrawler_attack_31: -6878958551235098014
+      crosscrawler_attack_32: -5509993017225454753
+      crosscrawler_attack_33: -6547204910022689430
+      crosscrawler_attack_34: 1460507350332088351
+      crosscrawler_attack_35: -6304158115925362908
+      crosscrawler_attack_36: -944514437223580835
+      crosscrawler_attack_37: -6112257966781566398
+      crosscrawler_attack_38: 1198287558201709351
+      crosscrawler_attack_39: -4205076429908181256
+      crosscrawler_attack_4: -4609022836941749241
+      crosscrawler_attack_40: -7964041006584811972
+      crosscrawler_attack_5: 6377756905100894924
+      crosscrawler_attack_6: -4359505590819880979
+      crosscrawler_attack_7: -6562007150652152037
+      crosscrawler_attack_8: -580351950051076574
+      crosscrawler_attack_9: 7890275454477234010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

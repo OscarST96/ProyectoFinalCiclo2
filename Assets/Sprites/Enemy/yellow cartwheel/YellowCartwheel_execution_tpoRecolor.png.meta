@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 931d11bd8d82e3240b7c4d44453ee45b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6564428693748063382
+    second: YellowCartwheel_execution_tpoRecolor_0
+  - first:
+      213: -4203901405245050928
+    second: YellowCartwheel_execution_tpoRecolor_1
+  - first:
+      213: 8068632134793524887
+    second: YellowCartwheel_execution_tpoRecolor_2
+  - first:
+      213: -6276581229156166270
+    second: YellowCartwheel_execution_tpoRecolor_3
+  - first:
+      213: 6450889006347772310
+    second: YellowCartwheel_execution_tpoRecolor_4
+  - first:
+      213: -8858963119871552957
+    second: YellowCartwheel_execution_tpoRecolor_5
+  - first:
+      213: -6811467378790284804
+    second: YellowCartwheel_execution_tpoRecolor_6
+  - first:
+      213: 2874662078856888225
+    second: YellowCartwheel_execution_tpoRecolor_7
+  - first:
+      213: -1156752026643809299
+    second: YellowCartwheel_execution_tpoRecolor_8
+  - first:
+      213: -2307685951543349783
+    second: YellowCartwheel_execution_tpoRecolor_9
+  - first:
+      213: -1504240086551067347
+    second: YellowCartwheel_execution_tpoRecolor_10
+  - first:
+      213: -1896651208753642682
+    second: YellowCartwheel_execution_tpoRecolor_11
+  - first:
+      213: 2628520663908369687
+    second: YellowCartwheel_execution_tpoRecolor_12
+  - first:
+      213: -7673669294863253474
+    second: YellowCartwheel_execution_tpoRecolor_13
+  - first:
+      213: 9073174833523131019
+    second: YellowCartwheel_execution_tpoRecolor_14
+  - first:
+      213: 3283396785900553380
+    second: YellowCartwheel_execution_tpoRecolor_15
+  - first:
+      213: -246143124212613121
+    second: YellowCartwheel_execution_tpoRecolor_16
+  - first:
+      213: -6462571303199001879
+    second: YellowCartwheel_execution_tpoRecolor_17
+  - first:
+      213: -7619166259510475861
+    second: YellowCartwheel_execution_tpoRecolor_18
+  - first:
+      213: -5893255289697205090
+    second: YellowCartwheel_execution_tpoRecolor_19
+  - first:
+      213: -8672357951398546821
+    second: YellowCartwheel_execution_tpoRecolor_20
+  - first:
+      213: 1348050623694736254
+    second: YellowCartwheel_execution_tpoRecolor_21
+  - first:
+      213: -2974645543106206821
+    second: YellowCartwheel_execution_tpoRecolor_22
+  - first:
+      213: -860190288927811155
+    second: YellowCartwheel_execution_tpoRecolor_23
+  - first:
+      213: 1874369993744562168
+    second: YellowCartwheel_execution_tpoRecolor_24
+  - first:
+      213: 8657344806360871212
+    second: YellowCartwheel_execution_tpoRecolor_25
+  - first:
+      213: 174425999188302861
+    second: YellowCartwheel_execution_tpoRecolor_26
+  - first:
+      213: -3441742656932037859
+    second: YellowCartwheel_execution_tpoRecolor_27
+  - first:
+      213: 3606043779956711502
+    second: YellowCartwheel_execution_tpoRecolor_28
+  - first:
+      213: 6358122534054625931
+    second: YellowCartwheel_execution_tpoRecolor_29
+  - first:
+      213: -7129625516059276545
+    second: YellowCartwheel_execution_tpoRecolor_30
+  - first:
+      213: 7485111393563489588
+    second: YellowCartwheel_execution_tpoRecolor_31
+  - first:
+      213: -924705378626893056
+    second: YellowCartwheel_execution_tpoRecolor_32
+  - first:
+      213: -3076441564500118402
+    second: YellowCartwheel_execution_tpoRecolor_33
+  - first:
+      213: -4957537630497828351
+    second: YellowCartwheel_execution_tpoRecolor_34
+  - first:
+      213: 2216101272015670220
+    second: YellowCartwheel_execution_tpoRecolor_35
+  - first:
+      213: -8981743188765715917
+    second: YellowCartwheel_execution_tpoRecolor_36
+  - first:
+      213: -1105623407924937387
+    second: YellowCartwheel_execution_tpoRecolor_37
+  - first:
+      213: 2342581434888332232
+    second: YellowCartwheel_execution_tpoRecolor_38
+  - first:
+      213: 7713223921418164331
+    second: YellowCartwheel_execution_tpoRecolor_39
+  - first:
+      213: 1079344998834871254
+    second: YellowCartwheel_execution_tpoRecolor_40
+  - first:
+      213: -5792793505581375690
+    second: YellowCartwheel_execution_tpoRecolor_41
+  - first:
+      213: 6961777697464562461
+    second: YellowCartwheel_execution_tpoRecolor_42
+  - first:
+      213: 5980504873905180602
+    second: YellowCartwheel_execution_tpoRecolor_43
+  - first:
+      213: -2857922788874956088
+    second: YellowCartwheel_execution_tpoRecolor_44
+  - first:
+      213: -4294852606788503902
+    second: YellowCartwheel_execution_tpoRecolor_45
+  - first:
+      213: -1635380576275357086
+    second: YellowCartwheel_execution_tpoRecolor_46
+  - first:
+      213: -785482788868548482
+    second: YellowCartwheel_execution_tpoRecolor_47
+  - first:
+      213: -6304960482030136996
+    second: YellowCartwheel_execution_tpoRecolor_48
+  - first:
+      213: -5152356144528789040
+    second: YellowCartwheel_execution_tpoRecolor_49
+  - first:
+      213: -3091726505027960303
+    second: YellowCartwheel_execution_tpoRecolor_50
+  - first:
+      213: 3021518157240251261
+    second: YellowCartwheel_execution_tpoRecolor_51
+  - first:
+      213: -4622906480627293263
+    second: YellowCartwheel_execution_tpoRecolor_52
+  - first:
+      213: -4427814995192455298
+    second: YellowCartwheel_execution_tpoRecolor_53
+  - first:
+      213: -8397555743344181414
+    second: YellowCartwheel_execution_tpoRecolor_54
+  - first:
+      213: -1721314133524108005
+    second: YellowCartwheel_execution_tpoRecolor_55
+  - first:
+      213: -1045973588143792965
+    second: YellowCartwheel_execution_tpoRecolor_56
+  - first:
+      213: -2669295833107036645
+    second: YellowCartwheel_execution_tpoRecolor_57
+  - first:
+      213: 9044749031325670423
+    second: YellowCartwheel_execution_tpoRecolor_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1c3cfd19891b50800000000000000
+      internalID: 6564428693748063382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 428
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6a95f1fdb8a5c0800000000000000
+      internalID: -4203901405245050928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 486
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7967ba95d2a89ff60800000000000000
+      internalID: 8068632134793524887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 479
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285134870aa15e8a0800000000000000
+      internalID: -6276581229156166270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 415
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e4dc7f59268950800000000000000
+      internalID: 6450889006347772310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34215c1baf3ae0580800000000000000
+      internalID: -8858963119871552957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 357
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14b08f18ec871a0800000000000000
+      internalID: -6811467378790284804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 425
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1affc8b1ee9d4e720800000000000000
+      internalID: 2874662078856888225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 400
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debbea6192462ffe0800000000000000
+      internalID: -1156752026643809299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 390
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed691d8ad379ffd0800000000000000
+      internalID: -2307685951543349783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 392
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2588307c9ddf1be0800000000000000
+      internalID: -1504240086551067347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438c6746cdbda5e0800000000000000
+      internalID: -1896651208753642682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 286
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71548090e916a7420800000000000000
+      internalID: 2628520663908369687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 310
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e108ad3ee66a18590800000000000000
+      internalID: -7673669294863253474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 344
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82092970746aed70800000000000000
+      internalID: 9073174833523131019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 273
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a403480bf7f09d20800000000000000
+      internalID: 3283396785900553380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 326
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffff665f126859cf0800000000000000
+      internalID: -246143124212613121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 328
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b031d3a55056a0800000000000000
+      internalID: -6462571303199001879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38c31b7a8434690800000000000000
+      internalID: -7619166259510475861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9408eea983f63ea0800000000000000
+      internalID: -5893255289697205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 300
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72fadd246895a780800000000000000
+      internalID: -8672357951398546821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 261
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b819466ec35b210800000000000000
+      internalID: 1348050623694736254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 261
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a47e83afe7b6d0800000000000000
+      internalID: -2974645543106206821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 261
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9973d5d7dff04f0800000000000000
+      internalID: -860190288927811155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 261
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7bbc61499130a10800000000000000
+      internalID: 1874369993744562168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2176399b31152870800000000000000
+      internalID: 8657344806360871212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 213
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1639a58fab6200800000000000000
+      internalID: 174425999188302861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 216
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bb145e9497c30d0800000000000000
+      internalID: -3441742656932037859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 243
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a3d456bd3b0230800000000000000
+      internalID: 3606043779956711502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 128
+        width: 170
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828bb802c69c3850800000000000000
+      internalID: 6358122534054625931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac9b51e5b7e0d90800000000000000
+      internalID: -7129625516059276545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 141
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b495972570e760800000000000000
+      internalID: 7485111393563489588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 140
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0d018b59ca23f0800000000000000
+      internalID: -924705378626893056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 198
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7439bf52b84e45d0800000000000000
+      internalID: -3076441564500118402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 128
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1029b8d8ac9433bb0800000000000000
+      internalID: -4957537630497828351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 128
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb09c09d5c21ce10800000000000000
+      internalID: 2216101272015670220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 180
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d5d938207a5380800000000000000
+      internalID: -8981743188765715917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 128
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df64b4e5908a0f0800000000000000
+      internalID: -1105623407924937387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3a1fb4765828020800000000000000
+      internalID: 2342581434888332232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68dc254a40ea0b60800000000000000
+      internalID: 7713223921418164331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db95adce8a9afe00800000000000000
+      internalID: 1079344998834871254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd1aa8ffcdb9fa0800000000000000
+      internalID: -5792793505581375690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 101
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13bc964ee33d9060800000000000000
+      internalID: 6961777697464562461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 69
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4c9a2f750ff250800000000000000
+      internalID: 5980504873905180602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c25d9d8d5e9658d0800000000000000
+      internalID: -2857922788874956088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 69
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f5b92f4e9564c0800000000000000
+      internalID: -4294852606788503902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a88ec706fd49e0800000000000000
+      internalID: -1635380576275357086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e789e40b0976915f0800000000000000
+      internalID: -785482788868548482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d7b1c8d74088a0800000000000000
+      internalID: -6304960482030136996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d17f0982672f78b0800000000000000
+      internalID: -5152356144528789040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1120625df1bf715d0800000000000000
+      internalID: -3091726505027960303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73b2bc51c69ee920800000000000000
+      internalID: 3021518157240251261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3eb509c0328dfb0800000000000000
+      internalID: -4622906480627293263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 21
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd760b8bd3d82c0800000000000000
+      internalID: -4427814995192455298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_54
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 11
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fbd682b83e57b80800000000000000
+      internalID: -8397555743344181414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_55
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 24
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1daf6c5ae9ac18e0800000000000000
+      internalID: -1721314133524108005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_56
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc9f3a3094fb71f0800000000000000
+      internalID: -1045973588143792965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_57
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 10
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1689331591c4fad0800000000000000
+      internalID: -2669295833107036645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_tpoRecolor_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c99b6a257658d70800000000000000
+      internalID: 9044749031325670423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YellowCartwheel_execution_tpoRecolor_0: 6564428693748063382
+      YellowCartwheel_execution_tpoRecolor_1: -4203901405245050928
+      YellowCartwheel_execution_tpoRecolor_10: -1504240086551067347
+      YellowCartwheel_execution_tpoRecolor_11: -1896651208753642682
+      YellowCartwheel_execution_tpoRecolor_12: 2628520663908369687
+      YellowCartwheel_execution_tpoRecolor_13: -7673669294863253474
+      YellowCartwheel_execution_tpoRecolor_14: 9073174833523131019
+      YellowCartwheel_execution_tpoRecolor_15: 3283396785900553380
+      YellowCartwheel_execution_tpoRecolor_16: -246143124212613121
+      YellowCartwheel_execution_tpoRecolor_17: -6462571303199001879
+      YellowCartwheel_execution_tpoRecolor_18: -7619166259510475861
+      YellowCartwheel_execution_tpoRecolor_19: -5893255289697205090
+      YellowCartwheel_execution_tpoRecolor_2: 8068632134793524887
+      YellowCartwheel_execution_tpoRecolor_20: -8672357951398546821
+      YellowCartwheel_execution_tpoRecolor_21: 1348050623694736254
+      YellowCartwheel_execution_tpoRecolor_22: -2974645543106206821
+      YellowCartwheel_execution_tpoRecolor_23: -860190288927811155
+      YellowCartwheel_execution_tpoRecolor_24: 1874369993744562168
+      YellowCartwheel_execution_tpoRecolor_25: 8657344806360871212
+      YellowCartwheel_execution_tpoRecolor_26: 174425999188302861
+      YellowCartwheel_execution_tpoRecolor_27: -3441742656932037859
+      YellowCartwheel_execution_tpoRecolor_28: 3606043779956711502
+      YellowCartwheel_execution_tpoRecolor_29: 6358122534054625931
+      YellowCartwheel_execution_tpoRecolor_3: -6276581229156166270
+      YellowCartwheel_execution_tpoRecolor_30: -7129625516059276545
+      YellowCartwheel_execution_tpoRecolor_31: 7485111393563489588
+      YellowCartwheel_execution_tpoRecolor_32: -924705378626893056
+      YellowCartwheel_execution_tpoRecolor_33: -3076441564500118402
+      YellowCartwheel_execution_tpoRecolor_34: -4957537630497828351
+      YellowCartwheel_execution_tpoRecolor_35: 2216101272015670220
+      YellowCartwheel_execution_tpoRecolor_36: -8981743188765715917
+      YellowCartwheel_execution_tpoRecolor_37: -1105623407924937387
+      YellowCartwheel_execution_tpoRecolor_38: 2342581434888332232
+      YellowCartwheel_execution_tpoRecolor_39: 7713223921418164331
+      YellowCartwheel_execution_tpoRecolor_4: 6450889006347772310
+      YellowCartwheel_execution_tpoRecolor_40: 1079344998834871254
+      YellowCartwheel_execution_tpoRecolor_41: -5792793505581375690
+      YellowCartwheel_execution_tpoRecolor_42: 6961777697464562461
+      YellowCartwheel_execution_tpoRecolor_43: 5980504873905180602
+      YellowCartwheel_execution_tpoRecolor_44: -2857922788874956088
+      YellowCartwheel_execution_tpoRecolor_45: -4294852606788503902
+      YellowCartwheel_execution_tpoRecolor_46: -1635380576275357086
+      YellowCartwheel_execution_tpoRecolor_47: -785482788868548482
+      YellowCartwheel_execution_tpoRecolor_48: -6304960482030136996
+      YellowCartwheel_execution_tpoRecolor_49: -5152356144528789040
+      YellowCartwheel_execution_tpoRecolor_5: -8858963119871552957
+      YellowCartwheel_execution_tpoRecolor_50: -3091726505027960303
+      YellowCartwheel_execution_tpoRecolor_51: 3021518157240251261
+      YellowCartwheel_execution_tpoRecolor_52: -4622906480627293263
+      YellowCartwheel_execution_tpoRecolor_53: -4427814995192455298
+      YellowCartwheel_execution_tpoRecolor_54: -8397555743344181414
+      YellowCartwheel_execution_tpoRecolor_55: -1721314133524108005
+      YellowCartwheel_execution_tpoRecolor_56: -1045973588143792965
+      YellowCartwheel_execution_tpoRecolor_57: -2669295833107036645
+      YellowCartwheel_execution_tpoRecolor_58: 9044749031325670423
+      YellowCartwheel_execution_tpoRecolor_6: -6811467378790284804
+      YellowCartwheel_execution_tpoRecolor_7: 2874662078856888225
+      YellowCartwheel_execution_tpoRecolor_8: -1156752026643809299
+      YellowCartwheel_execution_tpoRecolor_9: -2307685951543349783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

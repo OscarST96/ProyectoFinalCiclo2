@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 4e7b678189a641f45969bb821a2bd1c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9047317994924518320
+    second: crosscrawler_execution_tpoRecolor_0
+  - first:
+      213: -4530533680919149345
+    second: crosscrawler_execution_tpoRecolor_1
+  - first:
+      213: -5926833610184049943
+    second: crosscrawler_execution_tpoRecolor_2
+  - first:
+      213: -1663592400924859961
+    second: crosscrawler_execution_tpoRecolor_3
+  - first:
+      213: -40776283060483495
+    second: crosscrawler_execution_tpoRecolor_4
+  - first:
+      213: 5414093712879958934
+    second: crosscrawler_execution_tpoRecolor_5
+  - first:
+      213: -7414302758860944176
+    second: crosscrawler_execution_tpoRecolor_6
+  - first:
+      213: -139037207340076392
+    second: crosscrawler_execution_tpoRecolor_7
+  - first:
+      213: 3211921430217469766
+    second: crosscrawler_execution_tpoRecolor_8
+  - first:
+      213: 7514871024653864242
+    second: crosscrawler_execution_tpoRecolor_9
+  - first:
+      213: -3711944271409584013
+    second: crosscrawler_execution_tpoRecolor_10
+  - first:
+      213: -7962671599565218833
+    second: crosscrawler_execution_tpoRecolor_11
+  - first:
+      213: 7594000692001102207
+    second: crosscrawler_execution_tpoRecolor_12
+  - first:
+      213: 4086262097071175390
+    second: crosscrawler_execution_tpoRecolor_13
+  - first:
+      213: 8248242627968178698
+    second: crosscrawler_execution_tpoRecolor_14
+  - first:
+      213: -419397569866818799
+    second: crosscrawler_execution_tpoRecolor_15
+  - first:
+      213: -1862136319054891482
+    second: crosscrawler_execution_tpoRecolor_16
+  - first:
+      213: 6231106880610981777
+    second: crosscrawler_execution_tpoRecolor_17
+  - first:
+      213: -4130856239173362386
+    second: crosscrawler_execution_tpoRecolor_18
+  - first:
+      213: 5819145523665618612
+    second: crosscrawler_execution_tpoRecolor_19
+  - first:
+      213: 6073958815761371228
+    second: crosscrawler_execution_tpoRecolor_20
+  - first:
+      213: -8101622578499683499
+    second: crosscrawler_execution_tpoRecolor_21
+  - first:
+      213: -2284549471780641136
+    second: crosscrawler_execution_tpoRecolor_22
+  - first:
+      213: 4007633329868799982
+    second: crosscrawler_execution_tpoRecolor_23
+  - first:
+      213: -351565050390667528
+    second: crosscrawler_execution_tpoRecolor_24
+  - first:
+      213: 96365412202843362
+    second: crosscrawler_execution_tpoRecolor_25
+  - first:
+      213: 7137617951014675168
+    second: crosscrawler_execution_tpoRecolor_26
+  - first:
+      213: 2242689317932028634
+    second: crosscrawler_execution_tpoRecolor_27
+  - first:
+      213: -6318981493338444796
+    second: crosscrawler_execution_tpoRecolor_28
+  - first:
+      213: 4898970941240493501
+    second: crosscrawler_execution_tpoRecolor_29
+  - first:
+      213: 8361707054385869138
+    second: crosscrawler_execution_tpoRecolor_30
+  - first:
+      213: -7661888192469638752
+    second: crosscrawler_execution_tpoRecolor_31
+  - first:
+      213: -874213938668475602
+    second: crosscrawler_execution_tpoRecolor_32
+  - first:
+      213: 2902564270036278169
+    second: crosscrawler_execution_tpoRecolor_33
+  - first:
+      213: -6248018341415977012
+    second: crosscrawler_execution_tpoRecolor_34
+  - first:
+      213: -7304652317845099524
+    second: crosscrawler_execution_tpoRecolor_35
+  - first:
+      213: 1599821174294216410
+    second: crosscrawler_execution_tpoRecolor_36
+  - first:
+      213: -7086005776931776241
+    second: crosscrawler_execution_tpoRecolor_37
+  - first:
+      213: -5041041995549026912
+    second: crosscrawler_execution_tpoRecolor_38
+  - first:
+      213: -1488615342709715332
+    second: crosscrawler_execution_tpoRecolor_39
+  - first:
+      213: 2269017141504827124
+    second: crosscrawler_execution_tpoRecolor_40
+  - first:
+      213: 7486091766606619084
+    second: crosscrawler_execution_tpoRecolor_41
+  - first:
+      213: -3545686969412656188
+    second: crosscrawler_execution_tpoRecolor_42
+  - first:
+      213: 8538575656392328399
+    second: crosscrawler_execution_tpoRecolor_43
+  - first:
+      213: -1943865176915844785
+    second: crosscrawler_execution_tpoRecolor_44
+  - first:
+      213: 6600098997846799982
+    second: crosscrawler_execution_tpoRecolor_45
+  - first:
+      213: -1296248293455903988
+    second: crosscrawler_execution_tpoRecolor_46
+  - first:
+      213: 3125182255528721813
+    second: crosscrawler_execution_tpoRecolor_47
+  - first:
+      213: -3408034793832609177
+    second: crosscrawler_execution_tpoRecolor_48
+  - first:
+      213: -4019613084590286194
+    second: crosscrawler_execution_tpoRecolor_49
+  - first:
+      213: -1226415653951321425
+    second: crosscrawler_execution_tpoRecolor_50
+  - first:
+      213: -6126062353804580789
+    second: crosscrawler_execution_tpoRecolor_51
+  - first:
+      213: -6171513462588838453
+    second: crosscrawler_execution_tpoRecolor_52
+  - first:
+      213: 3838455424154284976
+    second: crosscrawler_execution_tpoRecolor_53
+  - first:
+      213: 8932205097689815076
+    second: crosscrawler_execution_tpoRecolor_54
+  - first:
+      213: -656706542638636953
+    second: crosscrawler_execution_tpoRecolor_55
+  - first:
+      213: -193176739763545850
+    second: crosscrawler_execution_tpoRecolor_56
+  - first:
+      213: 3341495843413811997
+    second: crosscrawler_execution_tpoRecolor_57
+  - first:
+      213: -2525186343727418999
+    second: crosscrawler_execution_tpoRecolor_58
+  - first:
+      213: -3963223498510416258
+    second: crosscrawler_execution_tpoRecolor_59
+  - first:
+      213: -8911138061455921628
+    second: crosscrawler_execution_tpoRecolor_60
+  - first:
+      213: -3237824118133649475
+    second: crosscrawler_execution_tpoRecolor_61
+  - first:
+      213: -3484618511708266687
+    second: crosscrawler_execution_tpoRecolor_62
+  - first:
+      213: -5251198291146890456
+    second: crosscrawler_execution_tpoRecolor_63
+  - first:
+      213: -5270967139852454929
+    second: crosscrawler_execution_tpoRecolor_64
+  - first:
+      213: 5082980135832963623
+    second: crosscrawler_execution_tpoRecolor_65
+  - first:
+      213: 6989253858466348979
+    second: crosscrawler_execution_tpoRecolor_66
+  - first:
+      213: -4945811056145874507
+    second: crosscrawler_execution_tpoRecolor_67
+  - first:
+      213: 3865011591270441042
+    second: crosscrawler_execution_tpoRecolor_68
+  - first:
+      213: 1067186024249096932
+    second: crosscrawler_execution_tpoRecolor_69
+  - first:
+      213: -7065834058540535980
+    second: crosscrawler_execution_tpoRecolor_70
+  - first:
+      213: 7860768557504140366
+    second: crosscrawler_execution_tpoRecolor_71
+  - first:
+      213: 5300602767711681192
+    second: crosscrawler_execution_tpoRecolor_72
+  - first:
+      213: -7848784409512305681
+    second: crosscrawler_execution_tpoRecolor_73
+  - first:
+      213: -1219051432582035230
+    second: crosscrawler_execution_tpoRecolor_74
+  - first:
+      213: -4066768871535966531
+    second: crosscrawler_execution_tpoRecolor_75
+  - first:
+      213: 7284481976999735332
+    second: crosscrawler_execution_tpoRecolor_76
+  - first:
+      213: -1999982550997831281
+    second: crosscrawler_execution_tpoRecolor_77
+  - first:
+      213: -1996827405187622246
+    second: crosscrawler_execution_tpoRecolor_78
+  - first:
+      213: 6877171356686994399
+    second: crosscrawler_execution_tpoRecolor_79
+  - first:
+      213: 9211862579512274048
+    second: crosscrawler_execution_tpoRecolor_80
+  - first:
+      213: -8841265983618375123
+    second: crosscrawler_execution_tpoRecolor_81
+  - first:
+      213: 6274479024175678341
+    second: crosscrawler_execution_tpoRecolor_82
+  - first:
+      213: 5359622711597107805
+    second: crosscrawler_execution_tpoRecolor_83
+  - first:
+      213: -6537873857289375898
+    second: crosscrawler_execution_tpoRecolor_84
+  - first:
+      213: 853577694798019323
+    second: crosscrawler_execution_tpoRecolor_85
+  - first:
+      213: 8923362119469037618
+    second: crosscrawler_execution_tpoRecolor_86
+  - first:
+      213: 5678246360457051637
+    second: crosscrawler_execution_tpoRecolor_87
+  - first:
+      213: -1664230818173400418
+    second: crosscrawler_execution_tpoRecolor_88
+  - first:
+      213: -7270658111932620599
+    second: crosscrawler_execution_tpoRecolor_89
+  - first:
+      213: 1307136283306789786
+    second: crosscrawler_execution_tpoRecolor_90
+  - first:
+      213: -7465408642685896690
+    second: crosscrawler_execution_tpoRecolor_91
+  - first:
+      213: 1715255476601113813
+    second: crosscrawler_execution_tpoRecolor_92
+  - first:
+      213: -5260706793252218630
+    second: crosscrawler_execution_tpoRecolor_93
+  - first:
+      213: 2551342645095962311
+    second: crosscrawler_execution_tpoRecolor_94
+  - first:
+      213: 2155461785999499939
+    second: crosscrawler_execution_tpoRecolor_95
+  - first:
+      213: -7016742229035455796
+    second: crosscrawler_execution_tpoRecolor_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 47.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0545686e738717280800000000000000
+      internalID: -9047317994924518320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 441
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd40fd9fe9f4021c0800000000000000
+      internalID: -4530533680919149345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 441
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea3226bb38afbda0800000000000000
+      internalID: -5926833610184049943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 429
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1a5d3868bb9e8e0800000000000000
+      internalID: -1663592400924859961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 472
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a4be4cf222f6ff0800000000000000
+      internalID: -40776283060483495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 415
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb2e8fb89b22b40800000000000000
+      internalID: 5414093712879958934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 435
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc05e86cea1b1990800000000000000
+      internalID: -7414302758860944176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 488
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892bee5856a021ef0800000000000000
+      internalID: -139037207340076392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 477
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa396f589039c20800000000000000
+      internalID: 3211921430217469766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d8e55a16f2a4860800000000000000
+      internalID: 7514871024653864242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 434
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378e5941a568c7cc0800000000000000
+      internalID: -3711944271409584013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 446
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd2d44e58ee7190800000000000000
+      internalID: -7962671599565218833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 466
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79dbc6056f436960800000000000000
+      internalID: 7594000692001102207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 375
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6f1133ab155b830800000000000000
+      internalID: 4086262097071175390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 392
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a174518f4a77270800000000000000
+      internalID: 8248242627968178698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 448
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b1d6cd1200e2af0800000000000000
+      internalID: -419397569866818799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 431
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626316342ec5826e0800000000000000
+      internalID: -1862136319054891482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 366
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1975f40b1b6597650800000000000000
+      internalID: 6231106880610981777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 355
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d9dddf2204ca6c0800000000000000
+      internalID: -4130856239173362386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 364
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6c46ac502c1c050800000000000000
+      internalID: 5819145523665618612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 357
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501fc99c590b4450800000000000000
+      internalID: 6073958815761371228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 422
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bfd386031419f80800000000000000
+      internalID: -8101622578499683499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09665b60c56ab40e0800000000000000
+      internalID: -2284549471780641136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 392
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef78d8b749fd9730800000000000000
+      internalID: 4007633329868799982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 388
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe9508037dfe1bf0800000000000000
+      internalID: -351565050390667528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec0cf2f4db565100800000000000000
+      internalID: 96365412202843362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 356
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26ea0b5b9ed0360800000000000000
+      internalID: 7137617951014675168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 292
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d6e86d02af1f10800000000000000
+      internalID: 2242689317932028634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 281
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c6b4bafc77e48a0800000000000000
+      internalID: -6318981493338444796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 291
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c99d7d14acf340800000000000000
+      internalID: 4898970941240493501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 215
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2513c848340ca0470800000000000000
+      internalID: 8361707054385869138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 310
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1661b88418ba590800000000000000
+      internalID: -7661888192469638752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 346
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b68f7fd0b2ed3f0800000000000000
+      internalID: -874213938668475602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 347
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bd04d33daf74820800000000000000
+      internalID: 2902564270036278169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 342
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf76c10c649a49a0800000000000000
+      internalID: -6248018341415977012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_35
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbeb1b2b69a0aa90800000000000000
+      internalID: -7304652317845099524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 346
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade74fdb1e4b33610800000000000000
+      internalID: 1599821174294216410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 295
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f099d950a4379ad90800000000000000
+      internalID: -7086005776931776241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5597d730f9a0ab0800000000000000
+      internalID: -5041041995549026912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 314
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e479a9b30675be0800000000000000
+      internalID: -1488615342709715332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 313
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fedaa4811b2d7f10800000000000000
+      internalID: 2269017141504827124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 225
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc160987cc0f3e760800000000000000
+      internalID: 7486091766606619084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36d67bc703bcec0800000000000000
+      internalID: -3545686969412656188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 218
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc40017f15d1f7670800000000000000
+      internalID: 8538575656392328399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 275
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41edaeabe00605e0800000000000000
+      internalID: -1943865176915844785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 206
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66f119d113489b50800000000000000
+      internalID: 6600098997846799982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 219
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03cadf7b0dc20ee0800000000000000
+      internalID: -1296248293455903988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 232
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59db42714b0ee5b20800000000000000
+      internalID: 3125182255528721813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_48
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 176
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a8f6b596a34b0d0800000000000000
+      internalID: -3408034793832609177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8adb7642377738c0800000000000000
+      internalID: -4019613084590286194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 206
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faac047e575eafee0800000000000000
+      internalID: -1226415653951321425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 239
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48a5991fbadbfaa0800000000000000
+      internalID: -6126062353804580789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcde9df24316a5aa0800000000000000
+      internalID: -6171513462588838453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b333ea0fdee44530800000000000000
+      internalID: 3838455424154284976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 157
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281cb4263195fb70800000000000000
+      internalID: 8932205097689815076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 133
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760695cf0e8e2e6f0800000000000000
+      internalID: -656706542638636953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609968757c2b15df0800000000000000
+      internalID: -193176739763545850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 138
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ef1df3c06f5e20800000000000000
+      internalID: 3341495843413811997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_58
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 156
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b57e366cb4fcd0800000000000000
+      internalID: -2525186343727418999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_59
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 199
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e764ec5e93dcff8c0800000000000000
+      internalID: -3963223498510416258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ee4767527455480800000000000000
+      internalID: -8911138061455921628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_61
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 121
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf83798e10f013d0800000000000000
+      internalID: -3237824118133649475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 165
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd0e70de524afc0800000000000000
+      internalID: -3484618511708266687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232d0be9feff17b0800000000000000
+      internalID: -5251198291146890456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_64
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe376562053c9d6b0800000000000000
+      internalID: -5270967139852454929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac0b4b08f5a8640800000000000000
+      internalID: 5082980135832963623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 143
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3ae68a51def060800000000000000
+      internalID: 6989253858466348979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c9386c03fc5bb0800000000000000
+      internalID: -4945811056145874507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_68
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 73
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502176809743a530800000000000000
+      internalID: 3865011591270441042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 79
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf0ace8086fce00800000000000000
+      internalID: 1067186024249096932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa5d23c5d11fd90800000000000000
+      internalID: -7065834058540535980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 61
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44189bda5f071d60800000000000000
+      internalID: 7860768557504140366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 114
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa38e822268f8940800000000000000
+      internalID: 5300602767711681192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_73
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 70
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb15680a24831390800000000000000
+      internalID: -7848784409512305681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 124
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8440e4e2f051fe0800000000000000
+      internalID: -1219051432582035230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 120
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68b7c024fef87c0800000000000000
+      internalID: -4066768871535966531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_76
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 61
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420fdc363cda71560800000000000000
+      internalID: 7284481976999735332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 106
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817bca5772ae34e0800000000000000
+      internalID: -1999982550997831281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_78
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad60cfd08d944e0800000000000000
+      internalID: -1996827405187622246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbc1de79ee907f50800000000000000
+      internalID: 6877171356686994399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_80
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 90
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cea83a53c17df70800000000000000
+      internalID: 9211862579512274048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22aea15e638d4580800000000000000
+      internalID: -8841265983618375123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58381aacd6d631750800000000000000
+      internalID: 6274479024175678341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8cdea574316a40800000000000000
+      internalID: 5359622711597107805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f24fdad5ec445a0800000000000000
+      internalID: -6537873857289375898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf1a6146488db00800000000000000
+      internalID: 853577694798019323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_86
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f025d19626db70800000000000000
+      internalID: 8923362119469037618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd723eeafe2dce40800000000000000
+      internalID: 5678246360457051637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_88
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 41
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a448a63e677e8e0800000000000000
+      internalID: -1664230818173400418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_89
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a1f208fe691b90800000000000000
+      internalID: -7270658111932620599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_90
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b868f2681e32210800000000000000
+      internalID: 1307136283306789786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 32
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e087395946a856890800000000000000
+      internalID: -7465408642685896690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_92
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4ad5a4cfcdc710800000000000000
+      internalID: 1715255476601113813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_93
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af897b04b073ef6b0800000000000000
+      internalID: -5260706793252218630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_94
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6104d3e90386320800000000000000
+      internalID: 2551342645095962311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_95
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2ed61031db9ed10800000000000000
+      internalID: 2155461785999499939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_execution_tpoRecolor_96
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaebd57e168f9e90800000000000000
+      internalID: -7016742229035455796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crosscrawler_execution_tpoRecolor_0: -9047317994924518320
+      crosscrawler_execution_tpoRecolor_1: -4530533680919149345
+      crosscrawler_execution_tpoRecolor_10: -3711944271409584013
+      crosscrawler_execution_tpoRecolor_11: -7962671599565218833
+      crosscrawler_execution_tpoRecolor_12: 7594000692001102207
+      crosscrawler_execution_tpoRecolor_13: 4086262097071175390
+      crosscrawler_execution_tpoRecolor_14: 8248242627968178698
+      crosscrawler_execution_tpoRecolor_15: -419397569866818799
+      crosscrawler_execution_tpoRecolor_16: -1862136319054891482
+      crosscrawler_execution_tpoRecolor_17: 6231106880610981777
+      crosscrawler_execution_tpoRecolor_18: -4130856239173362386
+      crosscrawler_execution_tpoRecolor_19: 5819145523665618612
+      crosscrawler_execution_tpoRecolor_2: -5926833610184049943
+      crosscrawler_execution_tpoRecolor_20: 6073958815761371228
+      crosscrawler_execution_tpoRecolor_21: -8101622578499683499
+      crosscrawler_execution_tpoRecolor_22: -2284549471780641136
+      crosscrawler_execution_tpoRecolor_23: 4007633329868799982
+      crosscrawler_execution_tpoRecolor_24: -351565050390667528
+      crosscrawler_execution_tpoRecolor_25: 96365412202843362
+      crosscrawler_execution_tpoRecolor_26: 7137617951014675168
+      crosscrawler_execution_tpoRecolor_27: 2242689317932028634
+      crosscrawler_execution_tpoRecolor_28: -6318981493338444796
+      crosscrawler_execution_tpoRecolor_29: 4898970941240493501
+      crosscrawler_execution_tpoRecolor_3: -1663592400924859961
+      crosscrawler_execution_tpoRecolor_30: 8361707054385869138
+      crosscrawler_execution_tpoRecolor_31: -7661888192469638752
+      crosscrawler_execution_tpoRecolor_32: -874213938668475602
+      crosscrawler_execution_tpoRecolor_33: 2902564270036278169
+      crosscrawler_execution_tpoRecolor_34: -6248018341415977012
+      crosscrawler_execution_tpoRecolor_35: -7304652317845099524
+      crosscrawler_execution_tpoRecolor_36: 1599821174294216410
+      crosscrawler_execution_tpoRecolor_37: -7086005776931776241
+      crosscrawler_execution_tpoRecolor_38: -5041041995549026912
+      crosscrawler_execution_tpoRecolor_39: -1488615342709715332
+      crosscrawler_execution_tpoRecolor_4: -40776283060483495
+      crosscrawler_execution_tpoRecolor_40: 2269017141504827124
+      crosscrawler_execution_tpoRecolor_41: 7486091766606619084
+      crosscrawler_execution_tpoRecolor_42: -3545686969412656188
+      crosscrawler_execution_tpoRecolor_43: 8538575656392328399
+      crosscrawler_execution_tpoRecolor_44: -1943865176915844785
+      crosscrawler_execution_tpoRecolor_45: 6600098997846799982
+      crosscrawler_execution_tpoRecolor_46: -1296248293455903988
+      crosscrawler_execution_tpoRecolor_47: 3125182255528721813
+      crosscrawler_execution_tpoRecolor_48: -3408034793832609177
+      crosscrawler_execution_tpoRecolor_49: -4019613084590286194
+      crosscrawler_execution_tpoRecolor_5: 5414093712879958934
+      crosscrawler_execution_tpoRecolor_50: -1226415653951321425
+      crosscrawler_execution_tpoRecolor_51: -6126062353804580789
+      crosscrawler_execution_tpoRecolor_52: -6171513462588838453
+      crosscrawler_execution_tpoRecolor_53: 3838455424154284976
+      crosscrawler_execution_tpoRecolor_54: 8932205097689815076
+      crosscrawler_execution_tpoRecolor_55: -656706542638636953
+      crosscrawler_execution_tpoRecolor_56: -193176739763545850
+      crosscrawler_execution_tpoRecolor_57: 3341495843413811997
+      crosscrawler_execution_tpoRecolor_58: -2525186343727418999
+      crosscrawler_execution_tpoRecolor_59: -3963223498510416258
+      crosscrawler_execution_tpoRecolor_6: -7414302758860944176
+      crosscrawler_execution_tpoRecolor_60: -8911138061455921628
+      crosscrawler_execution_tpoRecolor_61: -3237824118133649475
+      crosscrawler_execution_tpoRecolor_62: -3484618511708266687
+      crosscrawler_execution_tpoRecolor_63: -5251198291146890456
+      crosscrawler_execution_tpoRecolor_64: -5270967139852454929
+      crosscrawler_execution_tpoRecolor_65: 5082980135832963623
+      crosscrawler_execution_tpoRecolor_66: 6989253858466348979
+      crosscrawler_execution_tpoRecolor_67: -4945811056145874507
+      crosscrawler_execution_tpoRecolor_68: 3865011591270441042
+      crosscrawler_execution_tpoRecolor_69: 1067186024249096932
+      crosscrawler_execution_tpoRecolor_7: -139037207340076392
+      crosscrawler_execution_tpoRecolor_70: -7065834058540535980
+      crosscrawler_execution_tpoRecolor_71: 7860768557504140366
+      crosscrawler_execution_tpoRecolor_72: 5300602767711681192
+      crosscrawler_execution_tpoRecolor_73: -7848784409512305681
+      crosscrawler_execution_tpoRecolor_74: -1219051432582035230
+      crosscrawler_execution_tpoRecolor_75: -4066768871535966531
+      crosscrawler_execution_tpoRecolor_76: 7284481976999735332
+      crosscrawler_execution_tpoRecolor_77: -1999982550997831281
+      crosscrawler_execution_tpoRecolor_78: -1996827405187622246
+      crosscrawler_execution_tpoRecolor_79: 6877171356686994399
+      crosscrawler_execution_tpoRecolor_8: 3211921430217469766
+      crosscrawler_execution_tpoRecolor_80: 9211862579512274048
+      crosscrawler_execution_tpoRecolor_81: -8841265983618375123
+      crosscrawler_execution_tpoRecolor_82: 6274479024175678341
+      crosscrawler_execution_tpoRecolor_83: 5359622711597107805
+      crosscrawler_execution_tpoRecolor_84: -6537873857289375898
+      crosscrawler_execution_tpoRecolor_85: 853577694798019323
+      crosscrawler_execution_tpoRecolor_86: 8923362119469037618
+      crosscrawler_execution_tpoRecolor_87: 5678246360457051637
+      crosscrawler_execution_tpoRecolor_88: -1664230818173400418
+      crosscrawler_execution_tpoRecolor_89: -7270658111932620599
+      crosscrawler_execution_tpoRecolor_9: 7514871024653864242
+      crosscrawler_execution_tpoRecolor_90: 1307136283306789786
+      crosscrawler_execution_tpoRecolor_91: -7465408642685896690
+      crosscrawler_execution_tpoRecolor_92: 1715255476601113813
+      crosscrawler_execution_tpoRecolor_93: -5260706793252218630
+      crosscrawler_execution_tpoRecolor_94: 2551342645095962311
+      crosscrawler_execution_tpoRecolor_95: 2155461785999499939
+      crosscrawler_execution_tpoRecolor_96: -7016742229035455796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 0cdcfb7a5e60b1f4faaf7a842abe10bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2824446993045062545
+    second: YellowCartwheel_execution_0
+  - first:
+      213: -6005421683630327209
+    second: YellowCartwheel_execution_1
+  - first:
+      213: 3258918550320220260
+    second: YellowCartwheel_execution_2
+  - first:
+      213: 5256157320824660380
+    second: YellowCartwheel_execution_3
+  - first:
+      213: 6468743375603663242
+    second: YellowCartwheel_execution_4
+  - first:
+      213: -4499532428119283338
+    second: YellowCartwheel_execution_5
+  - first:
+      213: 3232093345823706292
+    second: YellowCartwheel_execution_6
+  - first:
+      213: 913459735328331138
+    second: YellowCartwheel_execution_7
+  - first:
+      213: 9142443108533718289
+    second: YellowCartwheel_execution_8
+  - first:
+      213: -1180053889431532970
+    second: YellowCartwheel_execution_9
+  - first:
+      213: -8551797003410690969
+    second: YellowCartwheel_execution_10
+  - first:
+      213: -6000720182099665562
+    second: YellowCartwheel_execution_11
+  - first:
+      213: 167857444267620602
+    second: YellowCartwheel_execution_12
+  - first:
+      213: 8337930147893759106
+    second: YellowCartwheel_execution_13
+  - first:
+      213: -3461117975745700245
+    second: YellowCartwheel_execution_14
+  - first:
+      213: -4838913813239051863
+    second: YellowCartwheel_execution_15
+  - first:
+      213: 1421466031542757807
+    second: YellowCartwheel_execution_16
+  - first:
+      213: 3878757257424325725
+    second: YellowCartwheel_execution_17
+  - first:
+      213: 5838420570475682869
+    second: YellowCartwheel_execution_18
+  - first:
+      213: 241946786884215967
+    second: YellowCartwheel_execution_19
+  - first:
+      213: -5916449106004634715
+    second: YellowCartwheel_execution_20
+  - first:
+      213: -4440721961262815754
+    second: YellowCartwheel_execution_21
+  - first:
+      213: -3730077899639371243
+    second: YellowCartwheel_execution_22
+  - first:
+      213: -2004663309592329938
+    second: YellowCartwheel_execution_23
+  - first:
+      213: -915162188551589158
+    second: YellowCartwheel_execution_24
+  - first:
+      213: 3339670587426765615
+    second: YellowCartwheel_execution_25
+  - first:
+      213: -8763209722331860732
+    second: YellowCartwheel_execution_26
+  - first:
+      213: -5396192823144956219
+    second: YellowCartwheel_execution_27
+  - first:
+      213: 261737038817828702
+    second: YellowCartwheel_execution_28
+  - first:
+      213: 1826179055713755313
+    second: YellowCartwheel_execution_29
+  - first:
+      213: 1371767498220619645
+    second: YellowCartwheel_execution_30
+  - first:
+      213: 8745638104767630934
+    second: YellowCartwheel_execution_31
+  - first:
+      213: 5968988595093042072
+    second: YellowCartwheel_execution_32
+  - first:
+      213: 281768833834057425
+    second: YellowCartwheel_execution_33
+  - first:
+      213: 7380155329313727083
+    second: YellowCartwheel_execution_34
+  - first:
+      213: 2890516182560778951
+    second: YellowCartwheel_execution_35
+  - first:
+      213: 3262877749998611163
+    second: YellowCartwheel_execution_36
+  - first:
+      213: 7204913955847751001
+    second: YellowCartwheel_execution_37
+  - first:
+      213: -3009321591761715039
+    second: YellowCartwheel_execution_38
+  - first:
+      213: -2402090506529658275
+    second: YellowCartwheel_execution_39
+  - first:
+      213: 9139271653004363934
+    second: YellowCartwheel_execution_40
+  - first:
+      213: 1843539623452059992
+    second: YellowCartwheel_execution_41
+  - first:
+      213: 5573738471385231116
+    second: YellowCartwheel_execution_42
+  - first:
+      213: -5025447606610593213
+    second: YellowCartwheel_execution_43
+  - first:
+      213: 8382775808087662537
+    second: YellowCartwheel_execution_44
+  - first:
+      213: 7607223128441301442
+    second: YellowCartwheel_execution_45
+  - first:
+      213: 2890973247270483706
+    second: YellowCartwheel_execution_46
+  - first:
+      213: 5062711949223574685
+    second: YellowCartwheel_execution_47
+  - first:
+      213: 4218008536613605962
+    second: YellowCartwheel_execution_48
+  - first:
+      213: -2470694499591489561
+    second: YellowCartwheel_execution_49
+  - first:
+      213: 3445854429119568873
+    second: YellowCartwheel_execution_50
+  - first:
+      213: 5866195949685095803
+    second: YellowCartwheel_execution_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1930f5b5393723720800000000000000
+      internalID: 2824446993045062545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 169
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a39ccfbc478aca0800000000000000
+      internalID: -6005421683630327209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 437
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46884cfa7210a3d20800000000000000
+      internalID: 3258918550320220260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 294
+        width: 113
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a2572c3f91f840800000000000000
+      internalID: 5256157320824660380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 437
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a818406c3d795c950800000000000000
+      internalID: 6468743375603663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 395
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679699e98137e81c0800000000000000
+      internalID: -4499532428119283338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223
+        width: 48
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcc9be06c3badc20800000000000000
+      internalID: 3232093345823706292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 426
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2851ed02ac24dac00800000000000000
+      internalID: 913459735328331138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 388
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dce57819b70ee70800000000000000
+      internalID: 9142443108533718289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 315
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a8d906d3b9f9fe0800000000000000
+      internalID: -1180053889431532970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 395
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca47c4fe9e15980800000000000000
+      internalID: -8551797003410690969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 377
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d9e6d99c829bca0800000000000000
+      internalID: -6000720182099665562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 353
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f97ac479545200800000000000000
+      internalID: 167857444267620602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 121
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4a331b4746b370800000000000000
+      internalID: 8337930147893759106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 292
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e55f1f983a7ffc0800000000000000
+      internalID: -3461117975745700245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 227
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c7274689b8dcb0800000000000000
+      internalID: -4838913813239051863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 303
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e36e03df0ab310800000000000000
+      internalID: 1421466031542757807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_17
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 280
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cceb2dc2d14d530800000000000000
+      internalID: 3878757257424325725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 125
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c5988539c360150800000000000000
+      internalID: 5838420570475682869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 209
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94e7ce12519b5300800000000000000
+      internalID: 241946786884215967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_20
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 227
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a39ae082ec84eda0800000000000000
+      internalID: -5916449106004634715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 155
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f567a877e26f52c0800000000000000
+      internalID: -4440721961262815754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 219
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ac57fb9e91c3cc0800000000000000
+      internalID: -3730077899639371243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 207
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218d7157510e24e0800000000000000
+      internalID: -2004663309592329938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 202
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2738796d0bc43f0800000000000000
+      internalID: -915162188551589158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 184
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b746674b4e85e20800000000000000
+      internalID: 3339670587426765615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401f820ef23d26680800000000000000
+      internalID: -8763209722331860732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 184
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cebee4b73fdc15b0800000000000000
+      internalID: -5396192823144956219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 154
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f9c473370e1a300800000000000000
+      internalID: 261737038817828702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 147
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a318fc24e75910800000000000000
+      internalID: 1826179055713755313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 137
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77cddd854f790310800000000000000
+      internalID: 1371767498220619645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_31
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 66
+        width: 94
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e8bc8158fbe5970800000000000000
+      internalID: 8745638104767630934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_32
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 133
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f0ee808b16d250800000000000000
+      internalID: 5968988595093042072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de7471f24b09e300800000000000000
+      internalID: 281768833834057425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 77
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6263f69b249b6660800000000000000
+      internalID: 7380155329313727083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_35
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 141
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caad07472d2d1820800000000000000
+      internalID: 2890516182560778951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 79
+        width: 105
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6132b602184d20800000000000000
+      internalID: 3262877749998611163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9554f8fc11ffcf360800000000000000
+      internalID: 7204913955847751001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 73
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04124d4fdbc36d0800000000000000
+      internalID: -3009321591761715039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a26ff396f0aaed0800000000000000
+      internalID: -2402090506529658275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_40
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 69
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e984f1f752735de70800000000000000
+      internalID: 9139271653004363934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 66
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859a7312581959910800000000000000
+      internalID: 1843539623452059992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_42
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 68
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f68d9db95e95d40800000000000000
+      internalID: 5573738471385231116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 66
+        width: 235
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a73aa1706024ab0800000000000000
+      internalID: -5025447606610593213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf9dc00f2a955470800000000000000
+      internalID: 8382775808087662537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 19
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c921e96129429960800000000000000
+      internalID: 7607223128441301442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 146
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f6b2f9dcce1820800000000000000
+      internalID: 2890973247270483706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cb895c1bd524640800000000000000
+      internalID: 5062711949223574685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_48
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a425b648a60698a30800000000000000
+      internalID: 4218008536613605962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_49
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e77653617456bdd0800000000000000
+      internalID: -2470694499591489561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_50
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 215
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebd06ba85222df20800000000000000
+      internalID: 3445854429119568873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_execution_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7db0d3c22ae86150800000000000000
+      internalID: 5866195949685095803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YellowCartwheel_execution_0: 2824446993045062545
+      YellowCartwheel_execution_1: -6005421683630327209
+      YellowCartwheel_execution_10: -8551797003410690969
+      YellowCartwheel_execution_11: -6000720182099665562
+      YellowCartwheel_execution_12: 167857444267620602
+      YellowCartwheel_execution_13: 8337930147893759106
+      YellowCartwheel_execution_14: -3461117975745700245
+      YellowCartwheel_execution_15: -4838913813239051863
+      YellowCartwheel_execution_16: 1421466031542757807
+      YellowCartwheel_execution_17: 3878757257424325725
+      YellowCartwheel_execution_18: 5838420570475682869
+      YellowCartwheel_execution_19: 241946786884215967
+      YellowCartwheel_execution_2: 3258918550320220260
+      YellowCartwheel_execution_20: -5916449106004634715
+      YellowCartwheel_execution_21: -4440721961262815754
+      YellowCartwheel_execution_22: -3730077899639371243
+      YellowCartwheel_execution_23: -2004663309592329938
+      YellowCartwheel_execution_24: -915162188551589158
+      YellowCartwheel_execution_25: 3339670587426765615
+      YellowCartwheel_execution_26: -8763209722331860732
+      YellowCartwheel_execution_27: -5396192823144956219
+      YellowCartwheel_execution_28: 261737038817828702
+      YellowCartwheel_execution_29: 1826179055713755313
+      YellowCartwheel_execution_3: 5256157320824660380
+      YellowCartwheel_execution_30: 1371767498220619645
+      YellowCartwheel_execution_31: 8745638104767630934
+      YellowCartwheel_execution_32: 5968988595093042072
+      YellowCartwheel_execution_33: 281768833834057425
+      YellowCartwheel_execution_34: 7380155329313727083
+      YellowCartwheel_execution_35: 2890516182560778951
+      YellowCartwheel_execution_36: 3262877749998611163
+      YellowCartwheel_execution_37: 7204913955847751001
+      YellowCartwheel_execution_38: -3009321591761715039
+      YellowCartwheel_execution_39: -2402090506529658275
+      YellowCartwheel_execution_4: 6468743375603663242
+      YellowCartwheel_execution_40: 9139271653004363934
+      YellowCartwheel_execution_41: 1843539623452059992
+      YellowCartwheel_execution_42: 5573738471385231116
+      YellowCartwheel_execution_43: -5025447606610593213
+      YellowCartwheel_execution_44: 8382775808087662537
+      YellowCartwheel_execution_45: 7607223128441301442
+      YellowCartwheel_execution_46: 2890973247270483706
+      YellowCartwheel_execution_47: 5062711949223574685
+      YellowCartwheel_execution_48: 4218008536613605962
+      YellowCartwheel_execution_49: -2470694499591489561
+      YellowCartwheel_execution_5: -4499532428119283338
+      YellowCartwheel_execution_50: 3445854429119568873
+      YellowCartwheel_execution_51: 5866195949685095803
+      YellowCartwheel_execution_6: 3232093345823706292
+      YellowCartwheel_execution_7: 913459735328331138
+      YellowCartwheel_execution_8: 9142443108533718289
+      YellowCartwheel_execution_9: -1180053889431532970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
