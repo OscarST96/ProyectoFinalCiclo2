@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class PlayerController : BaseEntity
 {
+    public float life = 100;
     [SerializeField] private float velocity = 1;
     [SerializeField] private float jumpForce = 1;
     [SerializeField] private float cadence = 1;
-    [SerializeField] private GameObject bullet;
     [SerializeField] private Animator animator;
 
     private float x;

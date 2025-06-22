@@ -73,7 +73,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,12 +139,12 @@ TextureImporter:
       name: penintent_idle_anim 1_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 143
-        width: 69
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 17
+        y: 144
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,12 +161,12 @@ TextureImporter:
       name: penintent_idle_anim 1_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 143
-        width: 69
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 145
+        y: 144
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: penintent_idle_anim 1_2
       rect:
         serializedVersion: 2
-        x: 273
-        y: 143
-        width: 68
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 274
+        y: 144
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: penintent_idle_anim 1_3
       rect:
         serializedVersion: 2
-        x: 401
-        y: 143
-        width: 68
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 402
+        y: 144
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: penintent_idle_anim 1_4
       rect:
         serializedVersion: 2
-        x: 530
-        y: 143
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 531
+        y: 144
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: penintent_idle_anim 1_5
       rect:
         serializedVersion: 2
-        x: 658
-        y: 143
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 659
+        y: 144
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: penintent_idle_anim 1_6
       rect:
         serializedVersion: 2
-        x: 788
-        y: 143
-        width: 65
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 789
+        y: 144
+        width: 63
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +293,12 @@ TextureImporter:
       name: penintent_idle_anim 1_7
       rect:
         serializedVersion: 2
-        x: 916
-        y: 143
-        width: 65
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 917
+        y: 144
+        width: 63
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: penintent_idle_anim 1_8
       rect:
         serializedVersion: 2
-        x: 18
-        y: 15
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 19
+        y: 16
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: penintent_idle_anim 1_9
       rect:
         serializedVersion: 2
-        x: 146
-        y: 15
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 147
+        y: 16
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: penintent_idle_anim 1_10
       rect:
         serializedVersion: 2
-        x: 273
-        y: 15
-        width: 68
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 274
+        y: 16
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +381,12 @@ TextureImporter:
       name: penintent_idle_anim 1_11
       rect:
         serializedVersion: 2
-        x: 401
-        y: 15
-        width: 68
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 402
+        y: 16
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: penintent_idle_anim 1_12
       rect:
         serializedVersion: 2
-        x: 528
-        y: 15
-        width: 69
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 529
+        y: 16
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,7 +425,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2cd642e3a037fa14f93979eb19875d2b
     internalID: 0
     vertices: []
     indices: 
@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      penintent_idle_anim 1_0: 275728930599182291
+      penintent_idle_anim 1_1: -1021893762324029891
+      penintent_idle_anim 1_10: -7742643474344264630
+      penintent_idle_anim 1_11: 8230407285628379665
+      penintent_idle_anim 1_12: -2174190730424196500
+      penintent_idle_anim 1_2: 1542847961671599012
+      penintent_idle_anim 1_3: 151347001618854594
+      penintent_idle_anim 1_4: -6403558558824501649
+      penintent_idle_anim 1_5: -5358912336943966454
+      penintent_idle_anim 1_6: 109471098580977987
+      penintent_idle_anim 1_7: -123610113295169567
+      penintent_idle_anim 1_8: -1025345667590196727
+      penintent_idle_anim 1_9: -4999716193467275062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

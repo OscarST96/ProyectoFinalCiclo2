@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -128,11 +128,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 137
-        width: 134
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 209
+        width: 63
+        height: 71
+      alignment: 9
+      pivot: {x: 0.36507937, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,11 +150,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 63
-        width: 69
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 65
+        width: 68
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,12 +171,12 @@ TextureImporter:
       name: penitent_attack_combo_1_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 64
-        width: 69
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 68
+        y: 65
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -193,12 +193,12 @@ TextureImporter:
       name: penitent_attack_combo_1_3
       rect:
         serializedVersion: 2
-        x: 132
-        y: 137
-        width: 78
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 133
+        y: 138
+        width: 76
+        height: 62
+      alignment: 9
+      pivot: {x: 0.2631579, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -215,12 +215,12 @@ TextureImporter:
       name: penitent_attack_combo_1_4
       rect:
         serializedVersion: 2
-        x: 134
-        y: 64
-        width: 69
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 135
+        y: 65
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,10 +239,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 56
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.18691589, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,12 +259,12 @@ TextureImporter:
       name: penitent_attack_combo_1_6
       rect:
         serializedVersion: 2
-        x: 201
-        y: 64
-        width: 44
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 202
+        y: 65
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -281,12 +281,12 @@ TextureImporter:
       name: penitent_attack_combo_1_7
       rect:
         serializedVersion: 2
-        x: 40
-        y: 25
-        width: 68
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 68
+        y: 138
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0.47692308, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -303,12 +303,12 @@ TextureImporter:
       name: penitent_attack_combo_1_8
       rect:
         serializedVersion: 2
-        x: 106
+        x: 107
         y: 0
-        width: 96
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 94
+        height: 62
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -321,11 +321,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: penitent_attack_combo_1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 67
+        height: 71
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340ee7af91a2564b8237758d11f1dc7
+      internalID: 1644798752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_attack_combo_1_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 209
+        width: 60
+        height: 63
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552233b34469d34c854990aad0d0e29
+      internalID: 286052831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 04df9ea619f88d242b9bceaca528a9ae
     internalID: 0
     vertices: []
     indices: 
@@ -334,7 +378,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      penitent_attack_combo_1_0: 6752661329431890455
+      penitent_attack_combo_1_1: 2384088341740961170
+      penitent_attack_combo_1_10: 286052831
+      penitent_attack_combo_1_2: 119663829223931973
+      penitent_attack_combo_1_3: -697457943789033591
+      penitent_attack_combo_1_4: -1549071532348801405
+      penitent_attack_combo_1_5: -8767590031883171267
+      penitent_attack_combo_1_6: 3079975402760286790
+      penitent_attack_combo_1_7: 2945564498090000534
+      penitent_attack_combo_1_8: -8937286368422518204
+      penitent_attack_combo_1_9: 1644798752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
