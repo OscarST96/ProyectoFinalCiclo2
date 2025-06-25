@@ -683,7 +683,7 @@ Transform:
   m_GameObject: {fileID: 379686367}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.59, y: -2.61, z: 0}
+  m_LocalPosition: {x: 37.58, y: -2.61, z: 0}
   m_LocalScale: {x: 1, y: 2.38, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1131,7 +1131,7 @@ MonoBehaviour:
   velocity: 1
   damage: 100
   rangeDetecte: 3
-  rangeAttack: 0.78
+  rangeAttack: 1.3
   target: {fileID: 2060156060}
   ColliderAttack: {fileID: 878275581}
 --- !u!50 &691976960
@@ -1355,7 +1355,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0

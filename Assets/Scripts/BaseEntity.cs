@@ -28,4 +28,8 @@ public class BaseEntity : MonoBehaviour, BehaviourEntity
             rigidbody2D.AddForce(Vector2.up * JumpForce, ForceMode2D.Impulse);
         }
     }
+    public void Push(Rigidbody2D rigidbody2D, Vector2 direction, float pushForce)
+    {
+        rigidbody2D.AddForce(direction.normalized * pushForce, ForceMode2D.Impulse);
+    }
 }
