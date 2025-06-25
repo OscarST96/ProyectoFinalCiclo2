@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         scoreText.text = "score: 500";
-        lifeText.text = "life :" + player.life;
+        lifeText.text = "life :" + player.Life;
     }
 
     // Update is called once per frame
