@@ -86,6 +86,10 @@ public class PlayerController : BaseEntity
         {
             capJump = true;
         }
+        if (collision.collider.tag == "DamageEnemy")
+        {
+
+        }
     }
 
     private void OnCollisionExit2D(Collision2D collision)

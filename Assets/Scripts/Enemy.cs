@@ -14,6 +14,7 @@ public class Enemy : BaseEntity
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private float x;
+    private bool isMovement;
 
     public float Life
     {
@@ -41,6 +42,7 @@ public class Enemy : BaseEntity
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        isMovement = false;
     }
 
     // Update is called once per frame
@@ -76,7 +78,8 @@ public class Enemy : BaseEntity
     }
     private void FixedUpdate()
     {
-        Movement(rb,velocity, x);
+        if(!isMovement) return;
+            Movement(rb, velocity, x);
     }
     private void OnDrawGizmos()
     {
@@ -90,7 +93,8 @@ public class Enemy : BaseEntity
     {
         if (collision.gameObject.tag == "Damage")
         {
-            life -= target.GetComponent<PlayerController>().damage;
+            TakeDamage(life, target.GetComponent<PlayerController>().damage);
+            Dead(life, animator,this.gameObject, 2.45f);
             Debug.Log(life);
         }
     }

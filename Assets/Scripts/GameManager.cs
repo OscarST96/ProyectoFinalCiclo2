@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        scoreText.text = "score: 500";
+        scoreText.text = "score: 0";
         lifeText.text = "life :" + player.Life;
     }
 

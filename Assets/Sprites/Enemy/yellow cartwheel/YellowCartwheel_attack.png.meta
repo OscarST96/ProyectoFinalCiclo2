@@ -147,6 +147,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -155,11 +194,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 167
-        width: 62
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 173
+        width: 119
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -173,59 +212,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowCartwheel_attack_1
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 185
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6bb14341dade77c0800000000000000
-      internalID: -4071576420784948372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: YellowCartwheel_attack_2
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 191
-        width: 32
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51b48c45a86c94450800000000000000
-      internalID: 6073603869916023573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: YellowCartwheel_attack_3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 139
-        width: 87
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 140
+        y: 140
+        width: 106
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,12 +237,12 @@ TextureImporter:
       name: YellowCartwheel_attack_4
       rect:
         serializedVersion: 2
-        x: 255
-        y: 73
-        width: 89
-        height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 173
+        width: 84
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,12 +259,12 @@ TextureImporter:
       name: YellowCartwheel_attack_5
       rect:
         serializedVersion: 2
-        x: 342
-        y: 193
-        width: 72
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 343
+        y: 194
+        width: 70
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -286,12 +281,12 @@ TextureImporter:
       name: YellowCartwheel_attack_6
       rect:
         serializedVersion: 2
-        x: 342
-        y: 73
-        width: 79
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 343
+        y: 74
+        width: 77
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,12 +303,12 @@ TextureImporter:
       name: YellowCartwheel_attack_7
       rect:
         serializedVersion: 2
-        x: 419
-        y: 133
-        width: 59
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 420
+        y: 195
+        width: 44
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,12 +325,12 @@ TextureImporter:
       name: YellowCartwheel_attack_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 157
-        height: 172
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 38
+        y: 108
+        width: 97
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,81 +344,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowCartwheel_attack_9
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 168
-        width: 9
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51bfb7bd1ac76be50800000000000000
-      internalID: 6824779319940479765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: YellowCartwheel_attack_10
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 176
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88345ee09449083d0800000000000000
-      internalID: -3206399893184363640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: YellowCartwheel_attack_11
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 150
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2981c4c21faf9c610800000000000000
-      internalID: 1642119452890503314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: YellowCartwheel_attack_12
       rect:
         serializedVersion: 2
-        x: 139
-        y: 0
-        width: 103
-        height: 141
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 140
+        y: 73
+        width: 90
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,37 +366,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowCartwheel_attack_13
-      rect:
-        serializedVersion: 2
-        x: 245
-        y: 96
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c466b26182d374e10800000000000000
-      internalID: 2181779786864223820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: YellowCartwheel_attack_14
       rect:
         serializedVersion: 2
-        x: 419
-        y: 73
-        width: 79
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 420
+        y: 74
+        width: 77
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -484,12 +391,12 @@ TextureImporter:
       name: YellowCartwheel_attack_15
       rect:
         serializedVersion: 2
-        x: 249
+        x: 216
         y: 0
-        width: 56
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 88
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -506,12 +413,12 @@ TextureImporter:
       name: YellowCartwheel_attack_16
       rect:
         serializedVersion: 2
-        x: 341
+        x: 342
         y: 0
-        width: 71
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -528,12 +435,12 @@ TextureImporter:
       name: YellowCartwheel_attack_17
       rect:
         serializedVersion: 2
-        x: 449
+        x: 450
         y: 0
-        width: 57
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -546,11 +453,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e081bbecc35ba4eb21e3747048af4d
+      internalID: -1413463577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_attack_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 134
+        width: 57
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d085c7a24f0c4bb23ebd3e76cf990
+      internalID: -130668010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_attack_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 133
+        width: 77
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8824ae7aab566499456caae27d0f83
+      internalID: -2109248394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_attack_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 74
+        width: 110
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976fd4616f6a2f44ad09395b48df1f1
+      internalID: -1796408488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_attack_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62af3ee44728c44b0c599a744c950b
+      internalID: -1922550168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: de8091216f976514e811d0dcefc55a80
     internalID: 0
     vertices: []
     indices: 
@@ -570,7 +587,12 @@ TextureImporter:
       YellowCartwheel_attack_15: 3195697242509628118
       YellowCartwheel_attack_16: -3983694626033503373
       YellowCartwheel_attack_17: -2555813404187372570
+      YellowCartwheel_attack_18: -1413463577
+      YellowCartwheel_attack_19: -130668010
       YellowCartwheel_attack_2: 6073603869916023573
+      YellowCartwheel_attack_20: -2109248394
+      YellowCartwheel_attack_21: -1796408488
+      YellowCartwheel_attack_22: -1922550168
       YellowCartwheel_attack_3: -2343161835155666629
       YellowCartwheel_attack_4: -5271569191489095964
       YellowCartwheel_attack_5: -118401979045768922

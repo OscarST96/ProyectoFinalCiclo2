@@ -31,7 +31,7 @@ public class Paralax : MonoBehaviour
         }
         BackSpeedCalculate(backCount);
     }
-    private void LateUpdate()
+    private void LateUpdate()//Se al final del Frame
     {
         distance = cameraPosition.position.x - cameraStartPosition.x;
         transform.position = new Vector3(cameraPosition.position.x - 1, transform.position.y, 3f);

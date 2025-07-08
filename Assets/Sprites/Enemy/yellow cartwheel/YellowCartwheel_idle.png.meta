@@ -123,6 +123,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -131,11 +170,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 182
-        width: 46
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 183
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,11 +192,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 46
-        height: 184
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 122
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -174,12 +213,12 @@ TextureImporter:
       name: YellowCartwheel_idle_2
       rect:
         serializedVersion: 2
-        x: 44
-        y: 184
-        width: 45
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 45
+        y: 185
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -196,12 +235,12 @@ TextureImporter:
       name: YellowCartwheel_idle_3
       rect:
         serializedVersion: 2
-        x: 44
-        y: 123
-        width: 45
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 45
+        y: 124
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -218,12 +257,12 @@ TextureImporter:
       name: YellowCartwheel_idle_4
       rect:
         serializedVersion: 2
-        x: 44
-        y: 61
-        width: 45
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 45
+        y: 62
+        width: 43
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,12 +279,12 @@ TextureImporter:
       name: YellowCartwheel_idle_5
       rect:
         serializedVersion: 2
-        x: 44
+        x: 45
         y: 0
-        width: 46
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 44
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -262,12 +301,12 @@ TextureImporter:
       name: YellowCartwheel_idle_6
       rect:
         serializedVersion: 2
-        x: 87
-        y: 61
-        width: 46
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 88
+        y: 62
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,12 +323,12 @@ TextureImporter:
       name: YellowCartwheel_idle_7
       rect:
         serializedVersion: 2
-        x: 88
+        x: 89
         y: 0
-        width: 47
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -306,12 +345,12 @@ TextureImporter:
       name: YellowCartwheel_idle_8
       rect:
         serializedVersion: 2
-        x: 133
+        x: 134
         y: 0
-        width: 46
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 44
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -328,12 +367,12 @@ TextureImporter:
       name: YellowCartwheel_idle_9
       rect:
         serializedVersion: 2
-        x: 177
+        x: 178
         y: 0
-        width: 46
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 44
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,11 +385,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e6f0b08a682c42ac00f26c9a1dcd9
+      internalID: 1112170376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowCartwheel_idle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 45
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d6154714bd0b43ad846f6ec788a4d
+      internalID: 1386706122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b1eedf512c22cfa40801ed5c31e25c82
     internalID: 0
     vertices: []
     indices: 
@@ -362,6 +445,8 @@ TextureImporter:
     nameFileIdTable:
       YellowCartwheel_idle_0: -708020944012041542
       YellowCartwheel_idle_1: 9010844936204825282
+      YellowCartwheel_idle_10: 1112170376
+      YellowCartwheel_idle_11: 1386706122
       YellowCartwheel_idle_2: 3552478612595664848
       YellowCartwheel_idle_3: 2115225071765121403
       YellowCartwheel_idle_4: 8353859234918217869
