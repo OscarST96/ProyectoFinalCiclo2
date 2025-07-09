@@ -1,11 +1,11 @@
 using UnityEngine;
-public interface BehaviourEntity
+public interface IBehaviourEntity
 {
     public abstract void Attack(float damage, float life);
     public float TakeDamage(float life, float damage);
     public void Movement(Rigidbody2D rigidbody2D, float velocity, float directionX);
 }
-public class BaseEntity : MonoBehaviour, BehaviourEntity
+public class BaseEntity : MonoBehaviour, IBehaviourEntity
 {
     protected float HP;
     public virtual void Attack(float damage, float life)
