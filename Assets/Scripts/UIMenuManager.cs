@@ -29,4 +29,9 @@ public class UIMenuManager : MonoBehaviour
         panelCredits.SetActive(false);
         panelMenu.SetActive(true);
     }
+    public void ButtonExit()
+    {
+        SceneManager.LoadScene("Menu");
+        panelMenu.SetActive(true);
+    }
 }

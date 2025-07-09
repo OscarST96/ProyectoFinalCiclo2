@@ -88,9 +88,10 @@ public class Enemy : BaseEntity
     {
         if (collision.gameObject.tag == "Damage")
         {
-            TakeDamage(life, target.GetComponent<PlayerController>().damage);
+            TakeDamage(life, target.GetComponent<PlayerController>().Damage);
             Dead(life, animator,this.gameObject, 2.45f);
             Debug.Log(life);
         }
+
     }
 }

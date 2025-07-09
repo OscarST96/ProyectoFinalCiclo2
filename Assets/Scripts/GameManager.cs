@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI lifeText;
 
     public PlayerController player;
+    public Transform checkpoint;
 
     void Start()
     {
@@ -18,5 +19,11 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         
+    }
+    public void SavePosition()
+    {
+        PlayerPrefs.SetFloat("positionX", checkpoint.position.x);
+        PlayerPrefs.SetFloat("positionY", checkpoint.position.y);
+        PlayerPrefs.SetFloat("positionZ", checkpoint.position.z);
     }
 }

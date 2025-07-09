@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : BaseEntity
 {
     [SerializeField] private float life = 100;
-    public float damage = 5;
+    [SerializeField] private float damage = 5;
     [SerializeField] private float velocity = 1;
     [SerializeField] private float jumpForce = 1;
     [SerializeField] private GameObject ColliderAttack;
@@ -35,6 +36,7 @@ public class PlayerController : BaseEntity
             }
         }
     }
+    public float Damage => damage;
 
     void Start()
     {
@@ -71,6 +73,8 @@ public class PlayerController : BaseEntity
         if (life == 0)
         {
             animator.SetTrigger("Dead");
+            Invoke("OnChangeSceneDead", 1.4f);
+            
         }
     }
     private void FixedUpdate()
@@ -86,9 +90,9 @@ public class PlayerController : BaseEntity
         {
             capJump = true;
         }
-        if (collision.collider.tag == "DamageEnemy")
+        if (collision.collider.tag == "Dead")
         {
-
+            life = 0;
         }
     }
 
@@ -99,8 +103,19 @@ public class PlayerController : BaseEntity
             capJump = false;
         }
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("DamageEnemy"))
+        {
+            TakeDamage(life, 5);
+        }
+    }
     private void DesactiveObject()
     {
         ColliderAttack.SetActive(false);
+    }
+    private void OnChangeSceneDead()
+    {
+        SceneManager.LoadScene("Defeat");
     }
 }
