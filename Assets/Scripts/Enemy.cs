@@ -15,7 +15,7 @@ public class Enemy : BaseEntity
     private SpriteRenderer spriteRenderer;
     private float x;
     private bool isMovement;
-
+    #region Getters y Setters
     public float Life
     {
         get { return life; }
@@ -36,13 +36,14 @@ public class Enemy : BaseEntity
             }
         }
     }
+    #endregion
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        isMovement = false;
+        isMovement = true;
     }
 
     // Update is called once per frame
@@ -51,30 +52,24 @@ public class Enemy : BaseEntity
         float distance = Vector2.Distance(transform.position, target.transform.position);
         animator.SetFloat("Movement", x);
         if (distance <= rangeDetecte)
-        {
             x = (target.transform.position.x - transform.position.x);
-        }
+
         if (distance > rangeDetecte)
-        {
             x = 0;
-        }
+
         if (distance <= rangeAttack)
         {
             animator.SetTrigger("Attack");
             ColliderAttack.SetActive(true);
         }
         if (distance > rangeAttack)
-        {
             ColliderAttack.SetActive(false);
-        }
+
         if (x < 0)
-        {
             transform.localScale = new Vector3(-1, 1, 1);
-        }
+        
         if (x > 0)
-        {
             transform.localScale = new Vector3(1, 1, 1);
-        }
     }
     private void FixedUpdate()
     {
